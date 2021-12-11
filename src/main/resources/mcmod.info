@@ -1,0 +1,16 @@
+[
+{
+  "modid": "eatinganimationid",
+  "name": "Eating Animation",
+  "description": "This mod adds simple sprite animation when you eat or drink something.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://www.curseforge.com/members/theone_ss",
+  "updateUrl": "",
+  "authorList": ["theone_ss", "spusik_", "PinkGoosik", "DoctorNight1", "no00ob"],
+  "credits": "theone_ss and the rest for the original fabric mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
